@@ -1,0 +1,14 @@
+CHEMIN DOSSIER 
+
+Pour Mac :
+Applications -> MAMP -> htdocs
+
+Pour Windows:
+Disque local (C) -> xamp -> htdocs 
+
+-------------
+
+MCD - Modèle Conceptuel de Données (Plan de construction)
+SGBD - Système de Gestion de Base De Données (Exploite les données)
+BDD - Base De Données  (Emplacement ou les données sont sauvegardées)
+SQL - Structure Query Language (Langage de requête structuré)
